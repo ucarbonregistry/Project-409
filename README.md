@@ -42,3 +42,68 @@ and one of 85 TPH boilers with high pressure and temperature configuration (45kg
 , 4900C
 and 87 kg/cm2
 , 515°C).
+__________
+ISSUANCE DATE: 9/8/2024
+
+QTY: 138201
+_______________
+Serial Number: 0001-000001-002311-UCR-CoU-IN-409-05122013-31122013
+
+Vintage Year:2013
+
+Quantity:2311
+_____________
+Serial Number:0001-002312-014886-UCR-CoU-IN-409-01012014-31122014
+
+Vintage Year:2014
+
+Quantity:12575
+____________
+Serial Number:0001-014887-033329-UCR-CoU-IN-409-01012015-31122015
+
+Vintage Year:2015
+
+Quantity:18443
+____________
+Serial Number:0001-033330-043171-UCR-CoU-IN-409-01012016-31122016
+
+Vintage Year:2016
+
+Quantity:9842
+______________
+Serial Number:0001-043172-045097-UCR-CoU-IN-409-01012017-31122017
+
+Vintage Year:2017
+
+Quantity:1926
+______________
+Serial Number:0001-045098-067660-UCR-CoU-IN-409-01012018-31122018
+
+Vintage Year:2018
+
+Quantity:22563
+_____________
+Serial Number:0001-067661-083875-UCR-CoU-IN-409-01012019-31122019
+
+Vintage Year:2019
+
+Quantity:16215
+_______________
+Serial Number:0001-083876-090485-UCR-CoU-IN-409-01012020-31122020
+
+Vintage Year:2020
+
+Quantity:6610
+______________
+Serial Number:0001-090486-114610-UCR-CoU-IN-409-01012021-31122021
+
+Vintage Year:2021
+
+Quantity:24125
+______________
+Serial Number:0001-114611-138201-UCR-CoU-IN-409-01012022-31122022
+
+Vintage Year:2022
+
+Quantity:23591
+_____________
