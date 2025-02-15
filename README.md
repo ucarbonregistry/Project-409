@@ -43,9 +43,11 @@ and one of 85 TPH boilers with high pressure and temperature configuration (45kg
 and 87 kg/cm2
 , 515°C).
 __________
-ISSUANCE DATE: 9/8/2024
+MP-01 ISSUANCE DATE: 9/8/2024
 
-QTY: 138201
+MP-01 Period: 20136-2022
+
+QTY: 138201 CoUs
 _______________
 Serial Number: 0001-000001-002311-UCR-CoU-IN-409-05122013-31122013
 
